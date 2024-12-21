@@ -38,7 +38,7 @@ Antes de usar o **ServerGuard Bot**, você precisa ter:
 Clone o repositório para o seu servidor ou máquina local:
 
 ```bash
-git clone https://github.com/henriquetourinho/MultiChatGuard-Bot.git
+git clone https://github.com/henriquetourinho/ServerGuard-Bot.git
 cd MultiChatGuard-Bot
 ```
 
@@ -102,7 +102,7 @@ Você pode configurar o script para rodar automaticamente a cada 5 minutos (ou o
 - Adicione a seguinte linha para rodar o script a cada 5 minutos:
 
   ```bash
-  */5 * * * * /caminho/para/multi_chat_guard.sh
+  */5 * * * * /caminho/para/serverguard_bot.sh
   ```
 
 ---
