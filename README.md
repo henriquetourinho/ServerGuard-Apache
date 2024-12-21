@@ -1,9 +1,3 @@
-### Nome do Bot: **ServerGuard Bot**
-
----
-
-### **README para GitHub**
-
 # ServerGuard Bot: Monitoramento de Servidores com Alertas em Vários Chats do Telegram
 
 O **ServerGuard Bot** é um bot em Shell que permite monitorar a saúde do servidor, como uso de CPU, memória, e espaço em disco, e enviar alertas em tempo real para múltiplos chats do Telegram. Com a capacidade de carregar IDs de chat de um arquivo `.txt`, ele facilita o envio de mensagens para diferentes grupos e usuários de maneira eficiente.
